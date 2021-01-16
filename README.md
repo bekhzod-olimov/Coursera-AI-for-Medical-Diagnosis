@@ -1,4 +1,4 @@
-# Machine Learning Course by Stanford University
+# AI for Medical Diagnosis Course by deeplearning.ai
 
 This repository contains my solutions to all the materials, namely quizes and programming assignments of the [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis/home/welcome) course by deeplearning.ai. Anyone can freely use the contents of the repository. Please, contact me if you have further questions related to the contents.
 
